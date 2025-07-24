@@ -148,7 +148,7 @@ class _RegistorState extends State<Registor1> {
                             backgroundColor: const Color(0xFF00A3B7),
                           ),
                           child: const Text(
-                            "Register",
+                            "Registor",
                             style: TextStyle(color: Colors.white),
                           ),
                         ),
